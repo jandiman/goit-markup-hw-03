@@ -396,7 +396,6 @@ body {
   display: flex;
   flex-direction: column;
   border: 1px solid var(--cornflower, #e7e9fc);
-  border-top: none;
   width: 100%;
   padding: 32px 16px;
 }

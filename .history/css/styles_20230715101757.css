@@ -341,9 +341,7 @@ body {
   font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.4px;
-  margin-bottom: 8px;
 }
-
 .projects-item-text {
   color: var(--slate, #434455);
 }
@@ -382,21 +380,17 @@ body {
 .projects-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
 }
 
 .projects-item {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  gap: ;
   background: var(--white, #fff);
 }
 
 .projects-item-wrapper {
   display: flex;
   flex-direction: column;
-  border: 1px solid var(--cornflower, #e7e9fc);
-  border-top: none;
-  width: 100%;
-  padding: 32px 16px;
 }
